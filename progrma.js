@@ -195,11 +195,10 @@ var ans = "n";
 while (ans == "n") {
     ans = prompt("do you want to exit? y/n");
     console.log("user  not wants to exit");
-    if (ans == "y") {
-        console.log("user wants to exit");
-        break;
-    }
+
+    
 }
+
 
 // program 14
 
